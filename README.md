@@ -13,6 +13,8 @@ It should be noted that only the **Transfer** functionality is under assessment 
 1. MS Excel 2016+, with the ability to run Macros enabled.
 2. Scheduler system such as Windows Task scheduler.
 3. Investec bank account, enabled for programmable banking.
+4. Telegram messaging account
+5. Telegram Bot credentials
 
 # Additional disclaimers
 1. The author is a hobbyist programmer, with no formal programming training - accordingly there may be some deficits in code etiquette or conventions that will need to be excused.
