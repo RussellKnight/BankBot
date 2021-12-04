@@ -6,7 +6,7 @@ BankBot is an automated personal banking solution leveraging the Investec Progra
 
 BankBot is housed in a Macro enabled Microsoft Excel file, with extensive VBA (Visual Basic for Applications) coding for automation elements.
 
-This submission is put forward as part of the Q42021 Hackathon.
+This submission is put forward as part of the OfferZen Q42021 Hackathon.
 It should be noted that only the **Transfer** functionality is under assessment from a Hackathon point of view - the underlying base of BankBot, using the existing Investec banking API's, was built **prior** to the Hackathon and only acts as a foundation for the Transfer functionality to be leveraged.
 
 # Pre-requsites
